@@ -47,6 +47,8 @@ class Game {
     
     if(allPlayers !== undefined){
       //var display_position = 100;
+            background(rgb(198,135,103));
+
       image(track, 0,-displayHeight*4,displayWidth, displayHeight*5);
 
       //index of the array
